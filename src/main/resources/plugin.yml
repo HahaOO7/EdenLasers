@@ -1,0 +1,6 @@
+name: EdenLasers
+version: '1.0'
+main: at.haha007.edenlasers.EdenLasers
+api-version: '1.21'
+depend:
+  - ProtocolLib
